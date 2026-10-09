@@ -78,7 +78,7 @@ Data Engineering • AI / ML • Generative AI & Agents • Backend • Cloud & 
 ## 📫 Get in Touch
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamed-amine-khouchaf-25323625b">
+  <a href="https://www.linkedin.com/in/mohamed-amine-khouchaf">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:khouchafamine1@gmail.com">
