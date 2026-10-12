@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "Morocco-Public-Spending-Policy-Intelligence-Platform",
+      "description": "Turns Moroccan public spending data into decision-support indicators for policy analysis."
+    },
+    {
+      "repo": "Global-Supply-Chain-Intelligence",
+      "description": "Global supply chain analytics: flows, risks and key indicators in one place."
+    },
+    {
+      "repo": "casablanca-traffic-analytics",
+      "description": "Explores traffic and mobility patterns in Casablanca from open data."
+    },
+    {
+      "repo": "incident-invesigator",
+      "description": "Java tool that organizes incident data into a structured investigation workflow."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Data Engineering",   "value": 80 },
+    { "label": "Machine Learning",   "value": 78 },
+    { "label": "Python",             "value": 88 },
+    { "label": "SQL / Databases",    "value": 82 },
+    { "label": "BI / Dataviz",       "value": 80 },
+    { "label": "Backend APIs",       "value": 72 },
+    { "label": "Docker / DevOps",    "value": 68 }
+  ]
+}
