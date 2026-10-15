@@ -18,10 +18,18 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://www.linkedin.com/in/mohamed-amine-khouchaf-25323625b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:khouchafamine1@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://github.com/MedAmine04"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=aa9bef" alt="GitHub"></a>
-
+<a href="https://www.linkedin.com/in/mohamed-amine-khouchaf-25323625b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:khouchafamine1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/MedAmine04">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=aa9bef" alt="GitHub">
+</a>&nbsp;&nbsp;
+<a href="https://portfolio-aminekhouchaf.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=aa9bef" alt="Portfolio">
+</a>
 </div>
 
 ---
